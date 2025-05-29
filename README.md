@@ -5,7 +5,6 @@
 Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial.
 
 <p align="left">
-    <!-- YouTube -->
     <a href="https://www.youtube.com/@caiodesiderioch?sub_confirmation=1">
         <img 
             alt="youtube subscribe" 
@@ -13,8 +12,6 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    
-    <!-- Instagram -->
 <a href="https://www.instagram.com/caiodesiderioch/">
         <img 
             alt="Instagram" 
@@ -22,8 +19,6 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
             src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
-    
-    <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/caiodesiderioch">
         <img 
             alt="LinkedIn" 
@@ -31,8 +26,6 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-
-    <!-- GitHub (Seguidores) -->
 <a href="https://github.com/Caiodesiderio?tab=followers">
         <img 
             alt="Seguidores" 
