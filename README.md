@@ -48,7 +48,7 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
     title="Django" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" 
 />
 <img 
     align="left" 
