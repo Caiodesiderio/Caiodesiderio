@@ -3,16 +3,12 @@
 **`Desenvolvedor back end`**
 
 Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial;além de compartilhar minha vida acadêmica.
-
 <p align="left">
     <a href="https://www.youtube.com/@caiodesiderioch?sub_confirmation=1">
         <img 
             alt="youtube subscribe" 
-            title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630&hide_count=true"
-        />
-    </a>
-</p>
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
 <a href="https://www.instagram.com/caiodesiderioch/">
         <img 
             alt="Instagram" 
