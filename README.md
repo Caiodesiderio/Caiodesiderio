@@ -134,7 +134,6 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
 <br/>
 <br/>
 
-
 - Python, Django, MongoDB, JavaScript, C/C#, Flutter ,Kotlin ,React, Node.js, Firebase, SQL, Java.
 
 ### 📊 Estatísticas
