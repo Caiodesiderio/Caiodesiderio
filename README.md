@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back end`**
 
-Me chamo Caio Daniel Desiderio, tenho 19 anos e sou natural do Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial.
+Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial.
 
 <p align="left">
     <a href="https://www.youtube.com/@caiodesiderioch?sub_confirmation=1">
@@ -163,14 +163,14 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos e sou natural do Amazonas. Conclu�
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Caiodesiderio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodesiderio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
