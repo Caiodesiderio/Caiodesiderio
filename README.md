@@ -31,7 +31,8 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
         />
     </a>
 </p>
-### 🤖 Linguagens e Tecnologias
+
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -132,26 +133,7 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
 
 <br/>
 <br/>
-
-### 💻 Linguagens que Eu Domínio
-
-Atualmente, domino uma variedade de tecnologias e linguagens de programação, incluindo:
-
-- **Python**: Utilizo para automações, análise de dados, e desenvolvimento de aplicações web com Django.
-- **Django**: Framework web Python utilizado para construção de sites rápidos e escaláveis.
-- **MongoDB**: Banco de dados NoSQL, perfeito para aplicações com dados flexíveis e não estruturados.
-- **JavaScript**: Linguagem fundamental para desenvolvimento web e aplicações interativas.
-- **C**: Linguagem de programação utilizada para sistemas de baixo nível e aplicativos de alto desempenho.
-- **Flutter**: Framework para desenvolvimento de aplicativos móveis nativos com uma única base de código.
-- **Kotlin**: Linguagem moderna para desenvolvimento de aplicativos Android.
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário dinâmicas e reativas.
-- **Node.js**: Ambiente de execução JavaScript para backend, ideal para aplicações escaláveis.
-- **Firebase**: Plataforma para desenvolvimento de apps móveis e web, com autenticação e banco de dados em tempo real.
-- **SQL**: Linguagem padrão para gerenciamento de banco de dados relacionais, como MySQL.
-- **Java**: Linguagem de programação popular para desenvolvimento de aplicativos empresariais e móveis (Android).
-
-Essas ferramentas me permitem construir soluções completas, desde a programação backend até o desenvolvimento frontend e mobile.
-
+- **Python**,**Django**,**MongoDB**,**JavaScript**,**C**,**Flutter**,**Kotlin**,**React**,**Node.js**,**Firebase**,**SQL**,**Java**:
 
 ### 📊 Estatísticas
 
