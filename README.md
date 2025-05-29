@@ -9,9 +9,10 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
         <img 
             alt="youtube subscribe" 
             title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630&hide_count=true"
         />
     </a>
+</p>
 <a href="https://www.instagram.com/caiodesiderioch/">
         <img 
             alt="Instagram" 
