@@ -8,7 +8,7 @@ Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí
     <a href="https://www.youtube.com/@caiodesiderioch?sub_confirmation=1">
         <img 
             alt="youtube subscribe" 
-            title="Inscreva-se no meu canal" 
+            title="Inscreva-se" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
