@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back end`**
 
-Me chamo Caio Daniel Desiderio, tenho 19 anos, sou natural do Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial;além de compartilhar minha vida acadêmica.
+Me chamo Caio Daniel Desiderio,19 anos,de Manaus-Amazonas. Concluí o ensino médio no Colégio La Salle. Atualmente, estou cursando Engenharia de Controle e Automação na UEA. Compartilho meu conhecimento através do meu canal no YouTube "[Caio Desiderio](https://www.youtube.com/@caiodesiderioch)", onde ensino a criar projetos web,dados e inteligência artificial;além de compartilhar minha vida acadêmica.
 <p align="left">
     <a href="https://www.youtube.com/@caiodesiderioch?sub_confirmation=1">
         <img 
