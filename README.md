@@ -135,7 +135,7 @@ Me chamo Caio Daniel Desiderio,19 anos,nascido em Manaus-Amazonas. Concluí o en
     align="left" 
     alt="GitHub Stats" 
     height="150" 
-    style="padding-right: 5px;" 
+    style="padding-right:10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Caiodesiderio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -143,6 +143,7 @@ Me chamo Caio Daniel Desiderio,19 anos,nascido em Manaus-Amazonas. Concluí o en
       align="left" 
       alt="GitHub Stats" 
       height="150" 
+      style="padding-right:7px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodesiderio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
