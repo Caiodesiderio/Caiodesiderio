@@ -30,13 +30,11 @@ Me chamo Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Concluí o ensi
 
 <br/><br/>
 
-Linguagens - Python, JavaScript, C, C++, Kotlin, Rust, SQL.
+**`Linguagens`** - Python, JavaScript, C, C++, Kotlin, Rust, SQL.
 
-Frameworks e bibliotecas- Django, Flask, FastAPI, React, React Native, Flutter, TensorFlow, PyTorch, OpenCV.
- 
-Bancos de dados e BaaS - MongoDB (NoSQL), Firebase.
+**`Frameworks e Bibliotecas`**- Django, Flask, FastAPI, React, React Native, Flutter, TensorFlow, PyTorch, OpenCV.
 
-Ferramentas, plataformas e DevOps - Node.js, Git, GitLab, Docker, CI/CD, AWS, GCP, Linux, MATLAB.
+**`Ferramentas, plataformas e DevOps`** - Node.js, Git, GitLab, Docker, CI/CD, AWS, GCP, Linux, MATLAB, Firebase, MongoDB, NoSQL.
 
 ### 📊 Estatísticas
 
