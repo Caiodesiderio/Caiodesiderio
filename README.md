@@ -13,7 +13,7 @@ Me chamo Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Concluí o ensi
   </a>
 </p>
 
-## 🤖 Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
@@ -30,7 +30,9 @@ Me chamo Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Concluí o ensi
 
 <br/><br/>
 
-- Python, Django, MongoDB, JavaScript, C/C++, C#, Flutter, Kotlin, React, Node.js, Firebase, SQL, Java.
+-Linguagens: Python, JavaScript,C/C++, Flutter, Kotlin, SQL, NoSQL, Rust.
+-Frameworks: Django, React/React Native, Node,js, MongoDB, Firebase, Git/Gitlab, Flask, FastAPI.
+-Ferramentas: AWS, GCP, Docker, CI/CD, Matlab, Linux, OpenCV, TensorFlow, PyTorch.
 
 ### 📊 Estatísticas
 
