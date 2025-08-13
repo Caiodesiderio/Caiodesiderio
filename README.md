@@ -2,7 +2,9 @@
 
 **`Desenvolvedor back end`**
 
-Sou Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Graduando em Engenharia de Controle e Automação na Universidade do Estado do Amazonas (UEA).
+Sou Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Desenvolvedor de Software Back-end,+3 anos de experiência, e trabalhando no Laboratório de Fabricação Digital do Samsung Ocean Center.Atualmente,Graduando em Engenharia de Controle e Automação na Universidade do Estado do Amazonas (UEA).
+Aluno do Programa Profissional de Inteligência Artificial de Stanford, ofertado diretamente pela Stanford University, School of Engineering(USA), programa voltado para Machine Learning, Visão Computacional, Processamento de Linguagem Natural (NLP) e Aprendizado por Reforço.
+
 <p align="left">
   <a href="https://www.instagram.com/caiodesiderioch/">
     <img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
