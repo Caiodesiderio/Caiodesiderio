@@ -2,8 +2,7 @@
 
 **`Desenvolvedor back end`**
 
-Me chamo Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Concluí o ensino médio no Colégio La Salle e, atualmente, curso Engenharia de Controle e Automação na UEA.
-
+Sou Caio Daniel Desiderio, 19 anos, nascido em Manaus–AM. Graduando em Engenharia de Controle e Automação na Universidade do Estado do Amazonas (UEA).
 <p align="left">
   <a href="https://www.instagram.com/caiodesiderioch/">
     <img alt="Instagram" title="Siga-me no Instagram" src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
