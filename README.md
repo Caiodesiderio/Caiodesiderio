@@ -13,6 +13,9 @@ Aluno do Programa Profissional de Inteligência Artificial de Stanford, ofertado
   <a href="https://www.linkedin.com/in/caiodesiderioch">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:cd.chaves2005@gmail.com">
+    <img alt="Email" title="Entre em contato por Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ##  Linguagens e Tecnologias
@@ -54,6 +57,5 @@ Aluno do Programa Profissional de Inteligência Artificial de Stanford, ofertado
     height="150"
     style="padding-right:5px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caiodesiderio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10&size_weight=0.5&count_weight=0.5&v=2"
-    <!-- Se preferir esconder as porcentagens/barras use também: &hide_progress=true -->
-  />
+    />
 </p>
